@@ -1,0 +1,16 @@
+** Sehr einfaches Anmeldungsformular, welches die in der Session besprochenen Fragen abdeckt **
+
+Name:
+Vorname:
+eMail:
+Twitter-Handle:
+
+Essen: [ ] Kein Schwein [ ] Kein Rind [ ] Vegan [ ] Vegetarisch
+Allergien:
+
+[ ] Ich bin geschulte(r) Ersthelfer(in) und bereit, mich als solche(r) zu markieren (Camp Pass)
+
+[ ] Ich benötige/möchte Hilfe (Accessibility):
+[ ] Ich bin bereit eine(m/r) Teilnehmer(in) zu helfen
+
+[ ] Ich möchte bei der Orga mithelfen
